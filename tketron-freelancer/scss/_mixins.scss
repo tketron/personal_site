@@ -1,8 +1,10 @@
 @mixin body-font() {
-  font-family: 'Lato';
+  // font-family: 'Lato';
+  font-family: 'Libre Franklin';
 }
 
 @mixin heading-font() {
   font-weight: 700;
-  font-family: 'Montserrat';
+  // font-family: 'Montserrat';
+  font-family: 'Libre Baskerville';
 }
